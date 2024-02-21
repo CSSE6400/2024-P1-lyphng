@@ -1,0 +1,8 @@
+[21:30:51 2024-01-30] FETCHING Version 2.30.0
+[21:30:51 2024-01-30] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.30.0/spicetify-2.30.0-darwin-amd64.tar.gz
+[21:30:55 2024-01-30] EXTRACTING /Users/lyphung/.spicetify/spicetify.tar.gz
+[21:30:55 2024-01-30] SETTING EXECUTABLE PERMISSIONS TO /Users/lyphung/.spicetify/spicetify
+[21:30:55 2024-01-30] REMOVING /Users/lyphung/.spicetify/spicetify.tar.gz
+[21:30:55 2024-01-30] spicetify path already set in /Users/lyphung/.zshrc, continuing...
+[21:30:55 2024-01-30] spicetify v2.30.0 was installed successfully to /Users/lyphung/.spicetify
+[21:30:55 2024-01-30] Run 'spicetify --help' to get started
